@@ -22,6 +22,6 @@ git commit
 git push
 ```
 
-**Modificando esde la interfaz web de GitHub**
+**Modificando desde la interfaz web de GitHub **
 
 ![Git logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvabadus.es%2Fblog%2Fotros%2Ftrabajando-con-git-eliminar-ramas-locales-y-remotas&psig=AOvVaw0PnkNJQpB5RzqoPcyUwrgn&ust=1632991158787000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCPDFp6Hko_MCFQAAAAAdAAAAABAE)
